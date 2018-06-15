@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28239" started-at="2018-06-15T16:25:20Z" finished-at="2018-06-15T16:25:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28239" started-at="2018-06-15T16:25:20Z" finished-at="2018-06-15T16:25:48Z">
+      <class name="APITest">
+        <test-method status="PASS" signature="CreateGistTest()[pri:1, instance:APITest@4678c730]" name="CreateGistTest" duration-ms="4536" started-at="2018-06-15T16:25:20Z" finished-at="2018-06-15T16:25:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateGistTest -->
+        <test-method status="PASS" signature="ReadGistTest()[pri:2, instance:APITest@4678c730]" name="ReadGistTest" duration-ms="1440" started-at="2018-06-15T16:25:24Z" finished-at="2018-06-15T16:25:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReadGistTest -->
+        <test-method status="PASS" signature="ValidateGistContentTest()[pri:3, instance:APITest@4678c730]" name="ValidateGistContentTest" duration-ms="1836" started-at="2018-06-15T16:25:26Z" finished-at="2018-06-15T16:25:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateGistContentTest -->
+        <test-method status="PASS" signature="CreateCommentGistTest()[pri:4, instance:APITest@4678c730]" name="CreateCommentGistTest" duration-ms="3571" started-at="2018-06-15T16:25:27Z" finished-at="2018-06-15T16:25:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateCommentGistTest -->
+        <test-method status="PASS" signature="ForkGistTest()[pri:5, instance:APITest@4678c730]" name="ForkGistTest" duration-ms="8389" started-at="2018-06-15T16:25:31Z" finished-at="2018-06-15T16:25:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForkGistTest -->
+        <test-method status="PASS" signature="StarGistTest()[pri:7, instance:APITest@4678c730]" name="StarGistTest" duration-ms="3450" started-at="2018-06-15T16:25:39Z" finished-at="2018-06-15T16:25:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StarGistTest -->
+        <test-method status="PASS" signature="UnStarGistTest()[pri:8, instance:APITest@4678c730]" name="UnStarGistTest" duration-ms="2076" started-at="2018-06-15T16:25:43Z" finished-at="2018-06-15T16:25:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UnStarGistTest -->
+        <test-method status="PASS" signature="DeleteGistTest()[pri:12, instance:APITest@4678c730]" name="DeleteGistTest" duration-ms="2900" started-at="2018-06-15T16:25:45Z" finished-at="2018-06-15T16:25:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteGistTest -->
+      </class> <!-- APITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
